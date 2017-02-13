@@ -1,5 +1,5 @@
 # Drawing-Tool
-# Databinding is not working for draw2d yet, hence when you change the attributes on the fly.. it does not get saved in the object.
+Databinding is not working for draw2d yet, hence when you cannot change the attributes on the fly.. it does not get saved in the object.
 
 pre-requisite : NodeJS should be installed
 
