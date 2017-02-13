@@ -1,4 +1,5 @@
 # Drawing-Tool
+# Databinding is not working for draw2d yet, hence when you change the attributes on the fly.. it does not get saved in the object.
 
 To run
 1. Clone from gihub
@@ -6,4 +7,3 @@ To run
 3. run node server.js
 
 To access the tool enter http://localhost:5656/angular in your browser
-
