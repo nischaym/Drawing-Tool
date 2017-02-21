@@ -31,5 +31,5 @@ package.json --> Metadata file<br>
     palette.js --> directive to give user the options(shapes) which are draggable on to the screen(left side-bar controller)<br>
  <br>
 <b>public/angular/controller</b><br>
-   HeadController --> controller of the main page which enables creation of new shapes. (This controller invokes library functions)<br>
+   EditorController --> controller of the main page which enables creation of new shapes. (This controller invokes library functions)<br>
  <br>
