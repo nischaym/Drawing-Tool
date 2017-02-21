@@ -9,12 +9,14 @@ To run
 3. run node server.js
 
 To access the tool enter http://localhost:5656/angular in your browser <br>
+<br>
 <b>working : </b><br>
 1. User can drag and drop any shapes from the left panel on-to the main canvas. <br>
 2. Free hand drawing canvas is on the right panel and is not draggable onto the main canvas. <br>
 3. User can undo, redo any action on both the canvas, to delete any shape on the main canvas user needs to first select it and then press on delete button. To reset the free-hand canvas, click on reset button.<br>
 <br>
-#Below is the structure of the code
+
+<h2>Structure of the code</h2>
 <br>
 server.js --> nodejs server file<br>
 package.json --> Metadata file<br>
